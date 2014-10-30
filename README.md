@@ -3,9 +3,7 @@ SiJaRayCluster
 
 An experimental version of SiJaRay for clustered rendering.
 
-![Link SiJaRay](https://github.com/guiguito/SiJaRay)
-
-This is an experimental version of SiJaRay which enables clustering rendering. 
+This is an experimental version of [SiJaRay](https://github.com/guiguito/SiJaRay) which enables clustering rendering. 
 
 This is one is fully from the ground using TCP socket.
 
